@@ -1,0 +1,12 @@
+{
+  "name": "nodehour",
+  "version": "0.0.1",
+  "dependencies": {
+    "ejs": "*",
+    "express": "4.x",
+    "mysql": "*",
+	"body-parser": "*",
+	"express-dust": "*",
+	"consolidate": "*"
+  }
+}
