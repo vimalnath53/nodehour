@@ -1,8 +1,8 @@
 --
--- Table structure for table `engineers_list`
+-- Table structure for table `customers_list`
 --
 
-DROP TABLE IF EXISTS `engineers_list`;
+DROP TABLE IF EXISTS `customers_list`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `engineers_list` (
