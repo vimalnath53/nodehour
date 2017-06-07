@@ -15,3 +15,7 @@ function deletecust(id) {
 	}
  	
 }
+
+function buyproduct() {
+	window.location.href = '/customers/paypalpay';
+}
